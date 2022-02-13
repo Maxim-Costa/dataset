@@ -1,0 +1,75 @@
+21 January 2009   3:58:39.647 PM                                                
+ 
+INT_EXACTNESS_LEGENDRE
+  FORTRAN90 version
+ 
+  Investigate the polynomial exactness of a Gauss-Legendre
+  quadrature rule by integrating weighted 
+  monomials up to a given degree over the [-1,+1] interval.
+ 
+INT_EXACTNESS_LEGENDRE: User input:
+  Quadrature rule X file = "gp_o7_x.txt".
+  Quadrature rule W file = "gp_o7_w.txt".
+  Quadrature rule R file = "gp_o7_r.txt".
+  Maximum degree to check =       12
+ 
+  Spatial dimension =        1
+  Number of points  =        7
+ 
+  The quadrature rule to be tested is
+  a Gauss-Legendre rule
+  ORDER =        7
+ 
+  Standard rule:
+    Integral ( -1 <= x <= +1 ) f(x) dx
+    is to be approximated by
+    sum ( 1 <= I <= ORDER ) w(i) * f(x(i)).
+ 
+  Weights W:
+ 
+  w( 1) =   0.1046562260264673    
+  w( 2) =   0.2684880898683334    
+  w( 3) =   0.4013974147759622    
+  w( 4) =   0.4509165386584741    
+  w( 5) =   0.4013974147759622    
+  w( 6) =   0.2684880898683334    
+  w( 7) =   0.1046562260264673    
+ 
+  Abscissas X:
+ 
+  x( 1) =  -0.9604912687080204    
+  x( 2) =  -0.7745966692414834    
+  x( 3) =  -0.4342437493468025    
+  x( 4) =    0.000000000000000    
+  x( 5) =   0.4342437493468025    
+  x( 6) =   0.7745966692414834    
+  x( 7) =   0.9604912687080204    
+ 
+  Region R:
+ 
+  r( 1) =  -1.0000000000000000    
+  r( 2) =   1.0000000000000000    
+ 
+  A Gauss-Legendre rule would be able to exactly
+  integrate monomials up to and including degree =       13
+ 
+          Error          Degree
+ 
+        0.0000000000000000    0
+        0.0000000000000000    1
+        0.0000000000000002    2
+        0.0000000000000000    3
+        0.0000000000000003    4
+        0.0000000000000000    5
+        0.0000000000000010    6
+        0.0000000000000000    7
+        0.0000000000000011    8
+        0.0000000000000000    9
+        0.0000000000000011   10
+        0.0000000000000000   11
+        0.0018242388612774   12
+ 
+INT_EXACTNESS_LEGENDRE:
+  Normal end of execution.
+ 
+21 January 2009   3:58:39.650 PM                                                

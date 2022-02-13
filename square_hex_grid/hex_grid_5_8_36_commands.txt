@@ -1,0 +1,18 @@
+# hex_grid_5_8_36_commands.txt
+#
+# Usage:
+#  gnuplot < hex_grid_5_8_36_commands.txt
+#
+set term png
+set output "hex_grid_5_8_36.png"
+set xlabel "<--- X --->"
+set ylabel "<--- Y --->"
+set title "Disk Grid"
+set grid
+set key off
+set timestamp
+set size ratio -1
+set style data lines
+plot "hex_grid_5_8_36_data.txt" using 1:2 with points lt 3 pt 3,\
+    "hex_grid_5_8_36_boundary.txt" using 1:2 lw 3 linecolor rgb "black"
+quit

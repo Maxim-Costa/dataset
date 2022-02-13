@@ -1,0 +1,22 @@
+read lcvt_mod_02_00010.txt
+box 0,0,1,1
+shadow
+title lcvt_mod_02_00010.txt
+output lcvt_mod_02_00010.eps
+dot
+#
+read lcvt_mod_02_00100.txt
+box 0,0,1,1
+shadow
+title lcvt_mod_02_00100.txt
+output lcvt_mod_02_00100.eps
+dot
+#
+read lcvt_mod_02_01000.txt
+box 0,0,1,1
+shadow
+title lcvt_mod_02_01000.txt
+output lcvt_mod_02_01000.eps
+dot
+#
+quit

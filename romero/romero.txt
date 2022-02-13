@@ -1,0 +1,25 @@
+romero_01_lhs.txt  LHSsets.out-uniform2d-seed1-9pts
+romero_02_lhs.txt  LHSsets.out-uniform2d-seed1-13pts
+romero_03_lhs.txt  LHSsets.out-uniform2d-seed1-25pts
+romero_04_lhs.txt  LHSsets.out-uniform2d-seed1-41pts
+romero_05_lhs.txt  LHSsets.out-uniform2d-seed2-9pts
+romero_06_lhs.txt  LHSsets.out-uniform2d-seed2-13pts
+romero_07_lhs.txt  LHSsets.out-uniform2d-seed2-25pts
+romero_08_lhs.txt  LHSsets.out-uniform2d-seed2-41pts
+romero_09_lhs.txt  LHSsets.out-uniform2d-seed3-9pts
+romero_10_lhs.txt  LHSsets.out-uniform2d-seed3-13pts
+romero_11_lhs.txt  LHSsets.out-uniform2d-seed3-25pts
+romero_12_lhs.txt  LHSsets.out-uniform2d-seed3-41pts
+
+romero_01_cvt.txt  CVT point set
+romero_02_cvt.txt  CVT point set
+romero_03_cvt.txt  CVT point set
+romero_04_cvt.txt  CVT point set
+romero_05_cvt.txt  CVT point set
+romero_06_cvt.txt  CVT point set
+romero_07_cvt.txt  CVT point set
+romero_08_cvt.txt  CVT point set
+romero_09_cvt.txt  CVT point set
+romero_10_cvt.txt  CVT point set
+romero_11_cvt.txt  CVT point set
+romero_12_cvt.txt  CVT point set

@@ -1,0 +1,23 @@
+17 October 2007   3:44:10.947 PM
+ 
+QUADRATURE_TEST_GENZ
+  FORTRAN90 version
+ 
+  This program is related to QUADRATURE TEST, but
+  only checks the Genz integrals.
+ 
+  Investigate the accuracy of a multidimensional
+  quadrature rule by integrating test functions.
+ 
+QUADRATURE_TEST_GENZ: User input:
+  Quadrature rule X file = "cc_d2_level0_x.txt".
+  Quadrature rule W file = "cc_d2_level0_w.txt".
+  Quadrature rule R file = "cc_d2_level0_r.txt".
+ 
+FILE_COLUMN_COUNT - Fatal error!
+  Could not open the input file "cc_d2_level0_x.txt" on unit        1
+ 
+DTABLE_HEADER_READ - Fatal error!
+  There was some kind of I/O problem while trying
+  to count the number of data columns in
+  the file "cc_d2_level0_x.txt".

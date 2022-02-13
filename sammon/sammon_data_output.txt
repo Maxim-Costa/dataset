@@ -1,0 +1,52 @@
+>> sammon_data
+20-Sep-2010 12:15:59
+
+SAMMON_DATA:
+  MATLAB version.
+  Generate data for SAMMON tests.
+
+DATA_CIRCLE
+  Generate 8 data points around a circle
+  of radius R = 0.317467
+  and center C = ( 4.073618, 4.528960 )
+  with initial angle THETA0 = 5.738910
+  plus the center point.
+
+  Test data written to "sammon_circle.txt".
+
+DATA_HELIX
+  Generate 20 data points along a helix.
+
+  Test data written to "sammon_helix.txt".
+
+DATA_IRIS
+  Fisher's iris data.
+  Spatial dimension M = 5
+  Number of points N = 147
+
+  Test data written to "sammon_iris.txt".
+
+DATA_LINEAR
+  Generate 9 data points along a straight line
+  in 9-dimensional space.
+
+  Test data written to "sammon_linear.txt".
+
+DATA_NONLINEAR
+  Generate 29 data points along a nonlinear curve.
+  Spatial dimension M = 5
+
+  Test data written to "sammon_nonlinear.txt".
+
+DATA_SIMPLEX
+  Generate 75 data points at vertices of a simplex
+  with a standard deviation of 0.200000
+  Spatial dimension M = 4
+
+  Test data written to "sammon_simplex.txt".
+
+SAMMON_DATA:
+  Normal end of execution.
+
+20-Sep-2010 12:15:59
+>> 

@@ -1,0 +1,193 @@
+January 16 2004   1:23:40.831 PM
+ 
+PLOT_POINTS
+  Given a file of 2D points, make a dot plot, and
+  a Delaunay triangulation plot.
+ 
+Enter command (H for help):
+ 
+ 
+DATA_READ
+  Read point data from "lcvt_mod_02_00010.txt".
+ 
+  Points are assumed to have dimension      2
+ 
+POINTS_COUNT:
+  Number of records:             22
+  Number of point records:       10
+  Number of comment records:     12
+  Number of bad records:          0
+ 
+POINTS_READ:
+  Read coordinate data from file.
+ 
+ Coord  Min  Max
+ 
+  1    0.0500    0.9500
+  2    0.0500    0.9500
+ 
+DATA_READ
+  The data has been read.
+ 
+Enter command (H for help):
+ 
+ 
+  Lower left box corner  =    0.0000   0.0000
+  Upper right box corner =     1.0000   1.0000
+ 
+Enter command (H for help):
+ 
+ 
+SHADOWING is turned ON.
+  Each point makes a small mark on X and Y axis.
+ 
+Enter command (H for help):
+ 
+ 
+TITLE:
+  "lcvt_mod_02_00010.txt"
+ 
+Enter command (H for help):
+ 
+ 
+  Next output file is lcvt_mod_02_00010.eps
+ 
+Enter command (H for help):
+ 
+ 
+  Write dot data to "lcvt_mod_02_00010.eps".
+ 
+        Plot Plot
+ Coord  Min  Max
+ 
+  1   -0.0500    1.0500
+  2   -0.0500    1.0500
+ 
+Enter command (H for help):
+ 
+#
+ 
+DATA_READ
+  Read point data from "lcvt_mod_02_00100.txt".
+ 
+  Points are assumed to have dimension      2
+ 
+POINTS_COUNT:
+  Number of records:            112
+  Number of point records:      100
+  Number of comment records:     12
+  Number of bad records:          0
+ 
+POINTS_READ:
+  Read coordinate data from file.
+ 
+ Coord  Min  Max
+ 
+  1    0.0050    0.9950
+  2    0.0050    0.9950
+ 
+DATA_READ
+  The data has been read.
+ 
+Enter command (H for help):
+ 
+ 
+  Lower left box corner  =    0.0000   0.0000
+  Upper right box corner =     1.0000   1.0000
+ 
+Enter command (H for help):
+ 
+ 
+SHADOWING is turned ON.
+  Each point makes a small mark on X and Y axis.
+ 
+Enter command (H for help):
+ 
+ 
+TITLE:
+  "lcvt_mod_02_00100.txt"
+ 
+Enter command (H for help):
+ 
+ 
+  Next output file is lcvt_mod_02_00100.eps
+ 
+Enter command (H for help):
+ 
+ 
+  Write dot data to "lcvt_mod_02_00100.eps".
+ 
+        Plot Plot
+ Coord  Min  Max
+ 
+  1   -0.0500    1.0500
+  2   -0.0500    1.0500
+ 
+Enter command (H for help):
+ 
+#
+ 
+DATA_READ
+  Read point data from "lcvt_mod_02_01000.txt".
+ 
+  Points are assumed to have dimension      2
+ 
+POINTS_COUNT:
+  Number of records:           1012
+  Number of point records:     1000
+  Number of comment records:     12
+  Number of bad records:          0
+ 
+POINTS_READ:
+  Read coordinate data from file.
+ 
+ Coord  Min  Max
+ 
+  1    0.0005    0.9995
+  2    0.0005    0.9995
+ 
+DATA_READ
+  The data has been read.
+ 
+Enter command (H for help):
+ 
+ 
+  Lower left box corner  =    0.0000   0.0000
+  Upper right box corner =     1.0000   1.0000
+ 
+Enter command (H for help):
+ 
+ 
+SHADOWING is turned ON.
+  Each point makes a small mark on X and Y axis.
+ 
+Enter command (H for help):
+ 
+ 
+TITLE:
+  "lcvt_mod_02_01000.txt"
+ 
+Enter command (H for help):
+ 
+ 
+  Next output file is lcvt_mod_02_01000.eps
+ 
+Enter command (H for help):
+ 
+ 
+  Write dot data to "lcvt_mod_02_01000.eps".
+ 
+        Plot Plot
+ Coord  Min  Max
+ 
+  1   -0.0500    1.0500
+  2   -0.0500    1.0500
+ 
+Enter command (H for help):
+ 
+#
+ 
+PLOT_POINTS
+  Normal end of execution.
+ 
+January 16 2004   1:23:42.091 PM
